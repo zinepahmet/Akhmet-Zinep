@@ -1,1 +1,0 @@
-# Akhmet-Zinep
