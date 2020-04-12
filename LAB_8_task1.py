@@ -16,7 +16,7 @@ clock = pygame.time.Clock()
 
 while running:
     milliseconds = clock.tick(FPS)
-    screen.fill((255,255,255))
+    screen.fill((255, 255, 255))
     pygame.draw.circle(screen, (255, 0 ,0), (ballx, bally), 25)
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
