@@ -1,1 +1,1 @@
-# Akhmet-Zinep
+# Akhmet Zinep
